@@ -1,5 +1,4 @@
-# vaccination-strategies-and-excess-mortality
-
+# Описание вложенных файлов
 
 Vaccination_Database_for_gt.xlsx: описание фаз вакцинации в странах Европы (1 лист), панельные данные по приоритизации групп риска (2 лист)
 
